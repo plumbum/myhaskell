@@ -4,7 +4,6 @@ My haskell samples
 Samples list
 ------------
 
-  * easy
 
 TODO
 ----
